@@ -1,0 +1,11 @@
+42	Sunrisers Hyderabad
+92	Mumbai Indians
+13	Gujarat Lions
+15	Rising Pune Supergiant
+73	Royal Challengers Bangalore
+77	Kolkata Knight Riders
+62	Delhi Daredevils
+70	Kings XI Punjab
+29	Deccan Chargers
+63	Rajasthan Royals
+79	Chennai Super Kings

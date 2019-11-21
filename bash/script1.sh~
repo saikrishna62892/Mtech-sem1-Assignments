@@ -1,0 +1,3 @@
+#!/bin/sh
+word=10
+echo $word

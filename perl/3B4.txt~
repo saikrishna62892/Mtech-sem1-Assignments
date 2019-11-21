@@ -1,0 +1,18 @@
+Though Perl is not officially an acronym but few people used it as Practical Extraction and Report Language
+It is used for mission critical projects in the public and private sectors
+Perl is an Open Source software, licensed under its Artistic License, or the GNU General Public License (GPL)
+Perl was created by Larry Wall
+Perl 1.0 was released to usenet's alt.comp.sources in 1987
+At the time of writing this tutorial, the latest version of perl was 5.16.2
+Perl is listed in the Oxford English Dictionary
+PC Magazine announced Perl as the finalist for its 1998 Technical Excellence Award in the Development Tool category
+Perl Features
+Perl takes the best features from other languages, such as C, awk, sed, sh, and BASIC, among others
+Perls database integration interface DBI supports third-party databases including Oracle, Sybase, Postgres, MySQL and others
+Perl works with HTML, XML, and other mark-up languages
+Perl supports Unicode
+Perl is Y2K compliant
+Perl supports both procedural and object-oriented programming
+Perl interfaces with external C/C++ libraries through XS or SWIG
+Perl is extensible. There are over 20,000 third party modules available from the Comprehensive Perl Archive Network (CPAN)
+The Perl interpreter can be embedded into other systems

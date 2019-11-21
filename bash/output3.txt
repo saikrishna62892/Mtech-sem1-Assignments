@@ -1,0 +1,11 @@
+1,Sunrisers,,1
+2,Mumbai,SPD Smith,1
+3,Gujarat,CA Lynn,1
+4,Rising,GJ Maxwell,1
+5,Royal,KM Jadhav,1
+6,Kolkata,Rashid Khan,1
+7,Delhi,N Rana,1
+8,Kings,AR Patel,1
+9,Deccan,SV Samson,1
+10,Rajasthan,JJ Bumrah,1
+11,Chennai,SP Narine,1
