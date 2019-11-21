@@ -1,0 +1,4 @@
+1-Itemsets
+water,tea,spaghetti,oil,milk,fries,eggs,cheese,chocolate,cake
+2-Itemsets
+{}
